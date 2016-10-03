@@ -1,0 +1,16 @@
+{
+  "name": "toolsphp/progress-bar",
+  "authors": [
+    {
+      "name": "dimajolkin",
+      "email": "dimajolkin@rambler.ru"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Toolsphp\\progressBar\\": "src",
+      "Toolsphp\\progressBar\\tests\\": "tests"
+    }
+  }
+}
